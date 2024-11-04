@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form, button, ul {
+    margin: 10px 0;
+    width: 100%;
+  }
+  
+  li.urgent {
+    border: 2px solid red;
+  }
+  
